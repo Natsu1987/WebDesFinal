@@ -1,0 +1,38 @@
+body {
+    font-family: "Times New Roman", Georgia, Serif;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;
+}
+
+.menu-item {
+    margin-bottom: 30px;
+}
+
+.menu-item h4 {
+    margin-bottom: 5px;
+}
+
+.menu-item p {
+    margin-top: 0;
+}
+
+.w3-content {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+img.w3-round {
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.custom-menu-padding {
+    margin-top: -50px;
+}
